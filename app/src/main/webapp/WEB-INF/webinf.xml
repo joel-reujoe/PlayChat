@@ -1,0 +1,11 @@
+<resource>
+<init-param>
+  <param-name>credential</param-name>
+  <param-value>/WEB-INF/Playchat-10819a336072</param-value>
+</init-param>
+
+<init-param>
+  <param-name>databaseUrl</param-name>
+  <param-value>https://console.firebase.google.com/project/playchat-75f04/database</param-value>
+</init-param>
+</resource>
