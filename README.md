@@ -1,3 +1,2 @@
 "#PlayChat"
-"#PlayChat"
-"#PlayChat"
+A small chatting application using firebase
